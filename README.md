@@ -2,7 +2,7 @@
 
 An academic equity research project evaluating NVIDIA’s financial performance, stock trends, and long-term growth outlook as of November 2024.
 
-**[View the PowerPoint presentation](./Nvidia%20Presentation_Functions%20copy%20%283%29.pptx)**
+**[View the financial analysis (PDF)](./Nvidia%20Presentation_Functions%20copy%20%283%29.pdf)**
 
 ## What I analyzed
 
